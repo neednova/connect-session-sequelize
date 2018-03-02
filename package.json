@@ -1,5 +1,5 @@
 {
-  "name": "connect-session-sequelize",
+  "name": "@novacredit/connect-session-sequelize",
   "version": "5.2.1",
   "description": "Session store for connect-session using sequelize",
   "homepage": "https://github.com/mweibel/connect-session-sequelize",
